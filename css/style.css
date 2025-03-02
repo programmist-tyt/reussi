@@ -30,6 +30,9 @@ body {
   left: calc(50% - 79px);
   top: 50%;
 }
+.header__cherry img{
+  width: 100%;
+}
 
 .header__inner {
   padding: 10px 0;
